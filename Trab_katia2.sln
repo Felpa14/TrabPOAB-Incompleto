@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trab_katia2", "Trab_katia2\Trab_katia2.csproj", "{FB186C44-A1F2-4DFF-91FA-D38573B1AE85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB186C44-A1F2-4DFF-91FA-D38573B1AE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB186C44-A1F2-4DFF-91FA-D38573B1AE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB186C44-A1F2-4DFF-91FA-D38573B1AE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB186C44-A1F2-4DFF-91FA-D38573B1AE85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4767F287-BE1A-4B7F-BCCC-A2CE7CD9E868}
+	EndGlobalSection
+EndGlobal
